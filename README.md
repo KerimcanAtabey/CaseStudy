@@ -1,5 +1,10 @@
 # Trendyol Case Project
 
+ Used Structure
+ -Page Object Model
+
+
+
  Used Technologies
 
  - Java
