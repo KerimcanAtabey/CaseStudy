@@ -1,6 +1,7 @@
 # Trendyol Case Project
 
  Used Structure
+ 
  -Page Object Model
 
 
