@@ -8,11 +8,6 @@ In this project, UI automations were developed for testing the search function o
 * Page Object Model
 * Behavior Driven Development
 
-
-# Installing
-* .NET Core SDK 3.1
-* Visual Studio 2019, Rider or VS Code
-
 # Used Technologies
 * Java
 * Maven
