@@ -7,6 +7,10 @@ In this project, UI automations were developed for testing the search function o
 # Project Structure
 * Page Object Model
 * Behavior Driven Development
+  
+# Installations
+* Java Development Kit 21.0.1
+* IntelliJ IDEA Community Edition 2021.3.1
 
 # Used Technologies
 * Java
